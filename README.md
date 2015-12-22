@@ -7,12 +7,12 @@ Just make an ajax call to <code>http://imperdiblesoft.github.io/APItools/?key=<i
 # Supported queries
 Right now, we support:
 
-<h2>Things</h2>
+<h3>Things</h3>
 <ul>
   <li>patterns</li>
 </ul>
 
-<h2>Filters</h2>
+<h3>Filters</h3>
 <ul>
   <li>domain</li>
   <li>website</li>
