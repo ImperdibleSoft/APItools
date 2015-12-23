@@ -2,7 +2,7 @@
 
   $response = array();
 
-  /* Place initial and finish characters */
+  /* Place initial and ending characters */
   function parseToRegex($param){
     return "^" . $param . "$";
   }
